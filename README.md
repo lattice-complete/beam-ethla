@@ -7,3 +7,7 @@
 </p>
 
 > Warning: Beam Ethla is under active development and the API is subject to change. Do not use in production (**at all, yet**)
+
+## Acknowledgements
+- [Aggregating Falcon Signatures with LaBRADOR](https://dfaranha.github.io/publication/aardalabkt24/)
+- https://github.com/dfaranha/aggregate-falcon
